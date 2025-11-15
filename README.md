@@ -1,6 +1,6 @@
 # Customer Churn Prediction Pipeline
 
-**Predict which customers will leave — and save $382,500 in retention!**
+**Predict which customers will leave — and save $417,600 in retention!**
 
 Live on GitHub: https://github.com/mcebuara/customer-churn-pipeline
 
