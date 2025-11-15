@@ -1,0 +1,12 @@
+data:
+  raw_path: "../data/raw"
+  processed_path: "../data/processed"
+  seed: 42
+  test_size: 0.2
+
+models:
+  xgboost:
+    max_depth: 6
+    n_estimators: 300
+    learning_rate: 0.1
+  optuna_trials: 30

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/unrly/Documents/customer-churn-pipeline/mlruns/0/917332f970904d229bdc8920c188e568/artifacts
+end_time: 1763182233900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 917332f970904d229bdc8920c188e568
+run_name: carefree-shrike-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763182166856
+status: 3
+tags: []
+user_id: unrly

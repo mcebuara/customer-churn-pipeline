@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/unrly/Documents/customer-churn-pipeline/mlruns/0/6beecf9fce7b460fa70460db6e461204/artifacts
+end_time: 1763183184360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6beecf9fce7b460fa70460db6e461204
+run_name: capable-lynx-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763183096594
+status: 3
+tags: []
+user_id: unrly

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/unrly/Documents/customer-churn-pipeline/mlruns/0/45f899f9cea04d4692a5211df3aebdf7/artifacts
+end_time: 1763106570265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45f899f9cea04d4692a5211df3aebdf7
+run_name: hilarious-donkey-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763106469841
+status: 3
+tags: []
+user_id: unrly

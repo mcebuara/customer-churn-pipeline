@@ -1,0 +1,10 @@
+artifact_location: file:///Users/unrly/Documents/customer-churn-pipeline/mlruns/0/models/m-922a7bca76834575a4e8615fb328ee26/artifacts
+creation_timestamp: 1763182226484
+experiment_id: '0'
+last_updated_timestamp: 1763182233866
+model_id: m-922a7bca76834575a4e8615fb328ee26
+model_type: null
+name: xgboost_model
+source_run_id: 917332f970904d229bdc8920c188e568
+status: 2
+status_message: null

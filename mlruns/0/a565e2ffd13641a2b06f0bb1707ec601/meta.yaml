@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/unrly/Documents/customer-churn-pipeline/mlruns/0/a565e2ffd13641a2b06f0bb1707ec601/artifacts
+end_time: 1763182711712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a565e2ffd13641a2b06f0bb1707ec601
+run_name: rebellious-gnu-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763182711689
+status: 4
+tags: []
+user_id: unrly

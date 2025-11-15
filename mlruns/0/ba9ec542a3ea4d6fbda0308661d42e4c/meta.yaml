@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/unrly/Documents/customer-churn-pipeline/mlruns/0/ba9ec542a3ea4d6fbda0308661d42e4c/artifacts
+end_time: 1763182728018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9ec542a3ea4d6fbda0308661d42e4c
+run_name: omniscient-fly-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763182727978
+status: 4
+tags: []
+user_id: unrly
